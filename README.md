@@ -3,7 +3,8 @@
 # Bitcoin Analysis V2
 
 This script performs a comprehensive analysis of Bitcoin price data using various data manipulation and visualization techniques. The analysis includes data preprocessing, exploratory data analysis (EDA), and visualization using libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Plotly.
-
+# Results
+The analysis of Bitcoin price data reveals significant fluctuations and trends over time. Visualizations of open, high, low, and close prices show the volatility of Bitcoin prices. The candlestick chart provides a detailed view of the price movements, highlighting periods of high and low activity. The closing price trends, when analyzed on yearly, quarterly, and monthly bases, show distinct patterns and cycles. Log scaling of the closing prices helps in better understanding the price changes over time. The daily price change analysis indicates the percentage change in closing prices, providing insights into the daily volatility of Bitcoin.
 ## Table of Contents
 
 1. [Introduction](#introduction)
