@@ -15,7 +15,7 @@ This script performs a comprehensive analysis of Bitcoin price data using variou
 7. [Detailed Analysis of Closing Prices](#detailed-analysis-of-closing-prices)
 8. [Usage](#usage)
 9. [Contributing](#contributing)
-10. [License](#license)
+
 
 ## Introduction
 
@@ -241,10 +241,5 @@ python your_script.py
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
-This documentation provides a comprehensive overview of the code and its functionality. You can customize it further based on your specific requirements.
