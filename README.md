@@ -5,8 +5,6 @@
 
 This script performs a comprehensive analysis of Bitcoin price data using various data manipulation and visualization techniques. The analysis includes data preprocessing, exploratory data analysis (EDA), and visualization using libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Plotly. The results provide insights into the trends and patterns in Bitcoin prices over time, including visualizations of open, high, low, and close prices, as well as detailed analysis of closing prices on yearly, quarterly, and monthly bases. The analysis reveals significant fluctuations in Bitcoin prices, with notable trends and patterns that can be observed through the visualizations and statistical summaries.
 
-Results
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
